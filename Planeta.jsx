@@ -53,6 +53,7 @@ const styles = StyleSheet.create({
   },
   infoView: {
     flexDirection: "row",
+    alignItems: "center",
     justifyContent: "space-between",
     width: "100%",
     marginTop: 10,
